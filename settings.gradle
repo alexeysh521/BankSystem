@@ -1,1 +1,5 @@
 rootProject.name = 'BANKING_SYSTEM'
+
+include 'backend'
+include 'frontend'
+include 'common'
